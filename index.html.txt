@@ -1,0 +1,11 @@
+index.html 
+<html>
+<img>https://www.facebook.com/ajax/sharer/?s=2&appid=2305272732&id=10100698264975039&p[0]=10100698264975039&sharer_type=all_modes&av=100031460942585<img>
+<head> 
+<h1>Big40</h1>
+<title>KrystalSoFine</title>
+<body> 
+Amir King Of The Stinkys
+</body>
+</head>
+</html>
